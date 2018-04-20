@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "424089845842",
+    "firebase_url": "https://fcmdatabasedemo-5a81f.firebaseio.com",
+    "project_id": "fcmdatabasedemo-5a81f",
+    "storage_bucket": "fcmdatabasedemo-5a81f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424089845842:android:45f0531d736133bb",
+        "android_client_info": {
+          "package_name": "com.byteshaft.fcmdatabasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424089845842-8ib0t3t6c76tgs6ag8ju4u5seeqf5nda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.byteshaft.fcmdatabasedemo",
+            "certificate_hash": "8fd0f3bac63d5acae6173b16812f21340535e05e"
+          }
+        },
+        {
+          "client_id": "424089845842-94f48kar07n7elqleho9q6fv7ohu0ha5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkr_OyVJF8P0qPRrOGBcmlVSc4YDgPfc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424089845842-94f48kar07n7elqleho9q6fv7ohu0ha5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
